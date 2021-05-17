@@ -1,10 +1,17 @@
 # CommonLit Readability Prize
 
+## 2021-05-17
+### TODO
+- ベースラインのnotebookを作成
+- 次の戦略を考える(たぶん、簡単な埋め込み系特徴を作ると思う)
+
 ## 2021-05-16
 ### やった事
-- Joinした。
+- コンペに参加し、データをダウンロードした。
 - Descriptionを読み、大体の戦略を立てた。
-  - 「99_memo/方針メモ.md」
+  - https://github.com/calpis10000/commonlit/blob/main/99_memo/%E6%96%B9%E9%87%9D%E3%83%A1%E3%83%A2.md
+- 軽いEDA & テキストに関する統計量を調査した。
+  - https://github.com/calpis10000/commonlit/issues/2
 
 ### 思った事
 - 今日から開始。
